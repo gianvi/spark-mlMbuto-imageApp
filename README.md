@@ -31,11 +31,11 @@ For every question and suggestion, just contact me!
 
 ### Evaluation and analysis notebook
 
-![Create and load image data](/zeppelin-notebook/zep1.tiff)
-![Data distribution](github.com/gianvi/spark-mlMbuto-imageApp/blob/master/zeppelin-notebook/zep2.tiff)
-![Model accuracy](github.com/gianvi/spark-mlMbuto-imageApp/blob/master/zeppelin-notebook/zep3.tiff)
-![Confusion matrix](github.com/gianvi/spark-mlMbuto-imageApp/blob/master/zeppelin-notebook/zep4.tiff)
-![Overall Evaluation](github.com/gianvi/spark-mlMbuto-imageApp/blob/master/zeppelin-notebook/zep5.tiff)
+![Create and load image data](/zeppelin-notebook/zep1.tiff?raw=true)
+![Data distribution](/zeppelin-notebook/zep2.tiff?raw=true)
+![Model accuracy](/zeppelin-notebook/zep3.tiff?raw=true)
+![Confusion matrix](/zeppelin-notebook/zep4.tiff?raw=true)
+![Overall Evaluation](/zeppelin-notebook/zep5.tiff?raw=true)
 
 
 
